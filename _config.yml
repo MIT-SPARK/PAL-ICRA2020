@@ -15,3 +15,4 @@ exclude:
   - LICENSE.txt
   - CNAME
   - Makefile
+theme: jekyll-theme-cayman
