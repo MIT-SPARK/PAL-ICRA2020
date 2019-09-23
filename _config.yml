@@ -1,7 +1,7 @@
 title: Global Optimization for Geometric Understanding with Provable Guarantees
 description: Title
 sitename: GlobalOptimization@ICCV2019
-baseurl: ''
+baseurl: 'https://lucacarlone.github.io/2020ws-ICRA-website/'
 
 sass:
   sass_dir: /assets/_sass
