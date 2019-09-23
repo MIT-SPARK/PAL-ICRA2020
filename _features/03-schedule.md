@@ -17,7 +17,7 @@ div_class: lead
 | 11:30-12:00 | Invited talk    							    |  Dhruv Batra (Georgia Tech) |
 | 12:00-1:30 | Lunch break                              		|   -  |
 |:-----------:|:-----------------------------------:|:------------------------:|
-|:-----------:|:-----------------------------------:|:------------------------:|
+|            | 													|            | 
 | 1:30-2:00 | Invited talk 										| Andrew Davison (Imperial College)  |
 | 2:00-2:30 | Invited talk                                    	| Cesar Cadena (ETH Zurich)|
 | 2:30-3:00 | Hands-on Tutorial: Metric-Semantic Mapping        |   -  |
