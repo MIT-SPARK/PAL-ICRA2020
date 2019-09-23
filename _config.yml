@@ -1,6 +1,6 @@
-title: Global Optimization for Geometric Understanding with Provable Guarantees
+title: Learning, Perception, and Action - from Metric-Semantic Scene Understanding to High-level Task Execution
 description: Title
-sitename: GlobalOptimization@ICCV2019
+sitename: perceptionAndAction@ICRA2020
 baseurl: 'https://lucacarlone.github.io/2020ws-ICRA-website/'
 
 sass:
