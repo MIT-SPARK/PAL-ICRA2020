@@ -1,5 +1,5 @@
 - name: Luca Carlone
-  image: "/assets/images/luca.png"
+  image: /assets/images/luca.png
   position: Assistant Professor
   affiliation: Massachusetts Institute of Technology
 
