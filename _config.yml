@@ -1,8 +1,8 @@
 title: Learning, Perception, and Action - from Metric-Semantic Scene Understanding to High-level Task Execution
 description: Title
 sitename: perceptionAndAction@ICRA2020
-baseurl: “/2020ws-ICRA-website/”
-url: “https://lucacarlone.github.io”
+baseurl: /2020ws-ICRA-website/
+url: https://lucacarlone.github.io
 
 sass:
   sass_dir: /assets/_sass
