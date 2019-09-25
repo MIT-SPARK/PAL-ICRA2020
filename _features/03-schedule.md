@@ -15,7 +15,8 @@ div_class: lead
 | 10:30-11:00 | Invited talk    							    |  Raia Hadsell (DeepMind) |
 | 11:00-11:30 | Poster Spotlights                               |   -  |
 | 11:30-12:00 | Invited talk    							    |  Dhruv Batra (Georgia Tech) |
-| 12:00-1:30 | Lunch break                              		|   -  |
+| 12:00-12:30 | Invited talk    							    |  Sertac Karaman (MIT) |
+| 12:30-1:30 | Lunch break                              		|   -  |
 |:-----------:|:-----------------------------------:|:------------------------:|
 |            | 													|            | 
 | 1:30-2:00 | Invited talk 										| Andrew Davison (Imperial College)  |
