@@ -1,9 +1,14 @@
 - name: Luca Carlone
-  image: url($baseurl + "/assets/images/luca.png")
+  image: "/assets/images/luca.png"
   position: Assistant Professor
   affiliation: Massachusetts Institute of Technology
 
 - name: Dan Griffith
-  image: /assets/images/luca.png
+  image: /assets/images/griffith.png
   position: Technical Staff
+  affiliation: MIT Lincoln Laboratory
+
+- name: Sanjeev Mohindra
+  image: /assets/images/mohindra.jpg
+  position: Associate Group Leader
   affiliation: MIT Lincoln Laboratory
