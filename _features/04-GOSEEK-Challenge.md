@@ -11,7 +11,7 @@ We are organizing the GOSEEK challenge, where participants create an RL agent th
 To get updates about the challenge, please send an email to "qla@mit.edu" with subject "GOSEEK: subscribe" and we will add you to our Goseek-Challenge@mit.edu mailing list!
 
 <font color="red">The GOSEEK challenge is online!</font> 
-Here are the instructions: https://github.com/MIT-TESSE/goseek-challenge 
+Here are the instructions: <a href="https://github.com/MIT-TESSE/goseek-challenge">https://github.com/MIT-TESSE/goseek-challenge</a>.
 We extensively beta-tested it, but please do not hesitate to reach out or create github issues if you have troubles using it.
    
 &nbsp;
