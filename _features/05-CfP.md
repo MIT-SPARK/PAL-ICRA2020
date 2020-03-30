@@ -9,7 +9,7 @@ div_class: lead
 
 SUBMISSIONS:
 ---------------------
-Submission link: https://easychair.org/conferences/?conf=pal2020icraworkshop
+Submission link: <a href="https://easychair.org/conferences/?conf=pal2020icraworkshop">https://easychair.org/conferences/?conf=pal2020icraworkshop</a>
 
 Participants are invited to submit an extended abstract or short papers (up to 4 pages in ICRA format) focusing on novel advances in spatial perception, reinforcement learning, and at the boundary between these research areas. 
 Topics of interest include but are not limited to:
@@ -23,6 +23,7 @@ Contributed papers will be reviewed by the organizers and a program committee of
  
 IMPORTANT DATES:
 ----------------------------
-- Submission Deadline: March 30, 2020
-- Notification of Acceptance: April 30, 2020
+- Submission Deadline: April 15, 2020
+- Notification of Acceptance: May 10, 2020
+- Final deadline for GOSEEK challenge : May 20, 2020  
 - Workshop Date: May 31, 2020
