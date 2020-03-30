@@ -5,6 +5,9 @@ heading: Schedule
 div_class: lead
 # subheading: Will Seal the Deal.
 ---
+<font color="red"> Note: due to the coronavirus outbreak, ICRA 2020 will be either virtualized or postponed. 
+We will be ready to either postpone or virtualize the PAL workshop according to the ICRA recommendations.
+</font> 
 
 | Time   |      Activity      |  Speaker |
 |:-----------:|:-----------------------------------:|:------------------------:|
