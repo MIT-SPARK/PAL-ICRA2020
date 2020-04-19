@@ -6,11 +6,13 @@ div_class: lead
 # subheading: Will Catch Your Eye
 # image: "http://placehold.it/500x500"
 ---
-<font color="red">Note: the GOSEEK Reinforcement Learning (virtual) challenge will take place irrespective of ICRA. </font> 
-
 <font color="red">The GOSEEK challenge is online and open for submissions via EvalAI!</font> 
 
-<font color="red">WHAT:</font>  The GOSEEK reinforcement learning challenge consists in creating an RL agent that combines advanced perception (provided by Kimera) and high-level decision-making to search for objects placed within complex indoor environments from a Unity-based simulator. Simply put: like PACMAN, but in a realistic scene and with realistic perception capabilities. Several data modalities are provided from both the simulator ground truth and the perception pipeline (e.g., images, depth, agent location) to enable the participants to focus on the RL/search aspects. The contest is hosted on the EvalAI platform, where participants can submit solutions, via docker containers, for scoring.
+
+<font color="red">Note: the GOSEEK Reinforcement Learning (virtual) challenge will take place irrespective of ICRA. </font>
+
+
+<strong>WHAT:</strong>  The GOSEEK reinforcement learning challenge consists in creating an RL agent that combines advanced perception (provided by Kimera) and high-level decision-making to search for objects placed within complex indoor environments from a Unity-based simulator. Simply put: like PACMAN, but in a realistic scene and with realistic perception capabilities. Several data modalities are provided from both the simulator ground truth and the perception pipeline (e.g., images, depth, agent location) to enable the participants to focus on the RL/search aspects. The contest is hosted on the EvalAI platform, where participants can submit solutions, via docker containers, for scoring.
 
 <font color="red">WHEN:</font> You can submit immediately for testing now, while we will open submissions to the leaderboard on April 25th. Because of the difficulties created by the coronavirus outbreak, we decided to extend the challenge deadline to May 20th.
 
