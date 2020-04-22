@@ -22,3 +22,8 @@
   image: /assets/images/mazumder.jpg
   position: Machine Learning Engineer
   affiliation: MIT Lincoln Laboratory
+
+- name: Constantine Frost
+  image: /assets/images/Costas.jpg
+  position: Simulation Engineer
+  affiliation: MIT Lincoln Laboratory
