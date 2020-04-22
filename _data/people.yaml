@@ -17,3 +17,8 @@
   image: /assets/images/ZacRavichandran_Headshot1.jpg
   position: Computer Vision Engineer
   affiliation: MIT Lincoln Laboratory
+
+- name: Mark Mazumder
+  image: /assets/images/mazumder.jpg
+  position: Machine Learning Engineer
+  affiliation: MIT Lincoln Laboratory
