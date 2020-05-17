@@ -25,5 +25,5 @@ IMPORTANT DATES:
 ----------------------------
 - Submission Deadline: April 15, 2020
 - Notification of Acceptance: May 10, 2020
-- Final deadline for GOSEEK challenge: May 20, 2020  
+- Final deadline for GOSEEK challenge: May 25, 2020  
 - Workshop Date: May 31, 2020
