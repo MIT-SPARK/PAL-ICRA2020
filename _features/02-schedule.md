@@ -5,8 +5,8 @@ heading: Schedule
 div_class: lead
 # subheading: Will Seal the Deal.
 ---
-<font color="red"> Note: due to the coronavirus outbreak, the ICRA 2020 PAL workshop will be released as a collection of videos and advertised via Facebook/Twitter/Youtube. Feel free to follow <a href="https://twitter.com/lucacarlone1">@lucacarlone1</a> on Twitter for updates. The recordings will also be collected on the workshop website. On the day the talk is released, the speakers will also reply to questions on the ICRA 2020 slack workspace (channel #ws9).
-</font> 
+<font color="red"> Note:</font>  due to the coronavirus outbreak, the ICRA 2020 PAL workshop will be released as a collection of videos and advertised via Facebook/Twitter/Youtube. Feel free to follow <a href="https://twitter.com/lucacarlone1">@lucacarlone1</a> on Twitter for updates. The recordings will also be collected on the workshop website. On the day the talk is released, the speakers will also reply to questions on the ICRA 2020 slack workspace (channel #ws9).
+
 
 | Date   |      Title      |  Speakers/Authors |   
 |:-----------:|:-----------------------------------:|:------------------------:|
@@ -22,7 +22,7 @@ June 15 | <font color="blue"> Paper: </font> Locally Observable Markov Decision 
 |:-----------:|:-----------------------------------:|:------------------------:|
 June 16 | <font color="red"> Invited talk </font>                         | Dhruv Batra (Georgia Tech) |
 June 17 | <font color="blue"> Paper: </font>  Scene Explanation through Verification of Stable Object Poses  |  Dominik Bauer, Timothy Patten and Markus Vincze |
-June 18 | <font color="red"> Keynote </font>  | GOSEEK Challenge Winner  |
+June 18 | <font color="blue"> Keynote Presentation </font>  | GOSEEK Challenge Winner  |
 |:-----------:|:-----------------------------------:|:------------------------:|
 |:-----------:|:-----------------------------------:|:------------------------:|
 June 19 | <font color="red"> Invited talk </font>                         | Cesar Cadena (ETH Zurich)|
