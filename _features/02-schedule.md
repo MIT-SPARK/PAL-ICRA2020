@@ -22,5 +22,9 @@ June 16, 2020 | Invited talk    							      | Sertac Karaman (MIT) |
 June 16, 2020 | Invited talk                        | Cesar Cadena (ETH Zurich)|
 |:-----------:|:-----------------------------------:|:------------------------:|
 
+The speaker release form can be found <a href="https://www.dropbox.com/s/nxrv0bc4gm6sgay/PALSpeakerReleaseForm.doc?dl=0">here</a>.
+
+
+
 
 
