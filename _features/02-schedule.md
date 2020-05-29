@@ -11,9 +11,7 @@ div_class: lead
 | Date   |      Title      |  Speakers/Authors |   
 |:-----------:|:-----------------------------------:|:------------------------:|
 June 10, 2020 | Invited talk    							      | Davide Scaramuzza (UZurich) | 
-June 11, 2020 | Where are the Keys? - Learning Object-Centric 
-Navigation Policies on Semantic Maps with Graph 
-Convolutional Networks     							            | Niko Suenderhauf   |
+June 11, 2020 | Where are the Keys? - Learning Object-Centric Navigation Policies on Semantic Maps with Graph Convolutional Networks     							                          | Niko Suenderhauf   |
 June 12, 2020 | Paper:     							            |   |
 June 13, 2020 | Paper:     							            |   |
 |:-----------:|:-----------------------------------:|:------------------------:|
