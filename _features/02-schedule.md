@@ -10,11 +10,16 @@ div_class: lead
 
 | Date   |      Title      |  Speakers/Authors |   
 |:-----------:|:-----------------------------------:|:------------------------:|
-| 11:30-12:00 | Invited talk    							      |  Dhruv Batra (Georgia Tech) |
-| 3:30-4:00   | Invited talk    							    	|  Marco Pavone (Stanford) |
-| 4:00-4:30   | Invited talk                        |  Davide Scaramuzza (UZurich) |
-| 12:00-12:30 | Invited talk    							      |  Sertac Karaman (MIT) |
-| 2:00-2:30   | Invited talk                        | Cesar Cadena (ETH Zurich)|
+June 10, 2020 | Invited talk    							      | Dhruv Batra (Georgia Tech) |
+June 11, 2020 | Paper:     							            |   |
+June 12, 2020 | Paper:     							            |   |
+June 13, 2020 | Invited talk                        | Cesar Cadena (ETH Zurich)|
+June 14, 2020 | Paper:     							            |   |
+June 15, 2020 | Paper:     							            |   |
+June 16, 2020 | Paper:     							            |   |
+June 16, 2020 | Invited talk                        | Davide Scaramuzza (UZurich) |
+June 16, 2020 | Invited talk    							      | Sertac Karaman (MIT) |
+June 16, 2020 | Invited talk                        | Cesar Cadena (ETH Zurich)|
 |:-----------:|:-----------------------------------:|:------------------------:|
 
 
