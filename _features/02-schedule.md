@@ -5,7 +5,7 @@ heading: Schedule
 div_class: lead
 # subheading: Will Seal the Deal.
 ---
-<font color="red"> Note: due to the coronavirus outbreak, the ICRA 2020 PAL workshop will be released as a collection of videos and advertised via Facebook/Twitter/Youtube. Feel free to follow @lucacarlone1 on Twitter for updates. The recordings will also be collected on the workshop website. On the day the talk is released, the speakers will also reply to questions on the ICRA 2020 slack workspace (channel #ws9).
+<font color="red"> Note: due to the coronavirus outbreak, the ICRA 2020 PAL workshop will be released as a collection of videos and advertised via Facebook/Twitter/Youtube. Feel free to follow <a href="https://twitter.com/lucacarlone1">@lucacarlone1</a> on Twitter for updates. The recordings will also be collected on the workshop website. On the day the talk is released, the speakers will also reply to questions on the ICRA 2020 slack workspace (channel #ws9).
 </font> 
 
 | Date   |      Title      |  Speakers/Authors |   
