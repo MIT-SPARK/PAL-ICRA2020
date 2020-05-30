@@ -16,7 +16,7 @@ June 12 | <font color="blue"> Paper: </font> Go Fetch: Mobile Manipulation in Un
 |:-----------:|:-----------------------------------:|:------------------------:|
 |:-----------:|:-----------------------------------:|:------------------------:|
 June 13 | <font color="red"> Invited talk </font>                         | Marco Pavone (Stanford) |
-June 14 | <font color="blue"> Paper: </font> Goal-Aware Prediction: Learning to Model what Matter   | Suraj Nair, Silvio Savarese, Chelsea Finn |
+June 14 | <font color="blue"> Paper: </font> Goal-Aware Prediction: Learning to Model what Matters   | Suraj Nair, Silvio Savarese, Chelsea Finn |
 June 15 | <font color="blue"> Paper: </font> Locally Observable Markov Decision Processes  | Max Merlin, Neev Parikh, Eric Rosen, George Konidaris |
 |:-----------:|:-----------------------------------:|:------------------------:|
 |:-----------:|:-----------------------------------:|:------------------------:|
