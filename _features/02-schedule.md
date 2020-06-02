@@ -25,10 +25,13 @@ June 17 | <font color="blue"> Paper: </font>  Scene Explanation through Verifica
 June 18 | <font color="blue"> Keynote Presentation </font>  | GOSEEK Challenge Winner  |
 |:-----------:|:-----------------------------------:|:------------------------:|
 |:-----------:|:-----------------------------------:|:------------------------:|
-June 19 | <font color="red"> Invited talk </font>                         | Cesar Cadena (ETH Zurich)|
+June 19 | <font color="red"> Invited talk </font>                         | Jeannette Bo (ETH Zurich)|
 June 20 | <font color="blue"> Paper: </font> Context Analysis in Static Household Environments   | Andrei Costinescu and Darius Burschka  | 
 June 21 | <font color="blue"> Paper: </font>  On the Potential of Smarter Multi-layer Maps   |  Francesco Verdoja and Ville Kyrki  |
 June 22 | <font color="blue"> Paper: </font> Motion Planning in Understructured Road Environments with Stacked Reservation Grid  | Fangyu Wu, Dequan Wang, Minjune Hwang, Chenhui Hao, Jiawei Lu, Trevor Darrell, Alexandre Bayen  |
+|:-----------:|:-----------------------------------:|:------------------------:|
+|:-----------:|:-----------------------------------:|:------------------------:|
+June 23 | <font color="red"> Invited talk </font>                         | Jeannette Bohg  (Stanford)|
 |:-----------:|:-----------------------------------:|:------------------------:|
 |:-----------:|:-----------------------------------:|:------------------------:|
 
