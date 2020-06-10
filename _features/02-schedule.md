@@ -10,7 +10,7 @@ div_class: lead
 
 | Date   |      Title      |  Speakers/Authors |   
 |:-----------:|:-----------------------------------:|:------------------------:|
-June 11 | <font color="red"> Workshop suspended for #shutDownSTEM </font>    							      | <a href="https://www.shutdownstem.com/">https://www.shutdownstem.com/</a> |
+June 10 | <font color="red"> Workshop suspended for #shutDownSTEM </font>    							      | <a href="https://www.shutdownstem.com/">https://www.shutdownstem.com/</a> |
 June 11 | <font color="red"> Invited talk </font>    							      | Davide Scaramuzza and Antonio Loquercio (UZurich) | 
 June 12 | <font color="blue"> Paper: </font> Go Fetch: Mobile Manipulation in Unstructured Environments   | K. Blomqvist, M. Breyer, A. Cramariuc, J. Förster, M. Grinvald, F. Tschopp, J. Chung, L. Ott, J. Nieto, R. Siegwart  |
 |:-----------:|:-----------------------------------:|:------------------------:|
