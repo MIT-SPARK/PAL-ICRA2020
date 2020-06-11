@@ -33,7 +33,7 @@ June 22 | <font color="red"> Tutorial: Kimera </font>                         | 
 |:-----------:|:-----------------------------------:|:------------------------:|
 |:-----------:|:-----------------------------------:|:------------------------:|
 June 23 | <font color="blue"> Paper: </font> <a href="https://drive.google.com/file/d/1mhDIk8OzQ-rCgGnsQAgJ7s9WNRVgo_dr/view?usp=sharing" target="_blank">Motion Planning in Understructured Road Environments with Stacked Reservation Grids</a>   | Fangyu Wu, Dequan Wang, Minjune Hwang, Chenhui Hao, Jiawei Lu, Trevor Darrell, Alexandre Bayen  |
-June 24 | <font color="blue"> Paper: </font> Where are the Keys? - Learning Object-Centric Navigation Policies on Semantic Maps with Graph Convolutional Networks     							                          | Niko Suenderhauf   |
+June 24 | <font color="blue"> Paper: </font> <a href="https://drive.google.com/file/d/1TzrsPd3FhXqPrc6sEO16piE4DyL-2v8t/view?usp=sharing" target="_blank"> Where are the Keys? - Learning Object-Centric Navigation Policies on Semantic Maps with Graph Convolutional Networks </a>  | Niko Suenderhauf   |
 |:-----------:|:-----------------------------------:|:------------------------:|
 |:-----------:|:-----------------------------------:|:------------------------:|
 June 25 | <font color="red"> Invited talk </font>                         | Cesar Cadena (ETH Zurich)|
