@@ -9,8 +9,8 @@ div_class: lead
 
 | Date   |      Title      |  Speakers/Authors |   
 |:-----------:|:-----------------------------------:|:------------------------:|
-June 10 | <font color="red"> Invited talk </font>    							      | Davide Scaramuzza (UZurich) | 
-June 11 | <font color="blue"> Paper: </font> Where are the Keys? - Learning Object-Centric Navigation Policies on Semantic Maps with Graph Convolutional Networks    							                          | Niko Suenderhauf   |
+June 10 | <font color="red"> Workshop suspended for #ShutDownSTEM </font>    							      | <a href="https://www.shutdownstem.com/">https://www.shutdownstem.com/</a> |
+June 11 | <font color="red"> Invited talk </font>    							      | Davide Scaramuzza and Antonio Loquercio (UZurich) | 
 June 12 | <font color="blue"> Paper: </font> <a href="https://drive.google.com/file/d/1lYBiVyR4rqZcZP24Dh2T6XoLGL8yGUqI/view?usp=sharing" target="_blank">Go Fetch: Mobile Manipulation in Unstructured Environments</a>    | K. Blomqvist, M. Breyer, A. Cramariuc, J. Förster, M. Grinvald, F. Tschopp, J. Chung, L. Ott, J. Nieto, R. Siegwart  |
 |:-----------:|:-----------------------------------:|:------------------------:|
 |:-----------:|:-----------------------------------:|:------------------------:|
@@ -33,11 +33,13 @@ June 22 | <font color="red"> Tutorial: Kimera </font>                         | 
 |:-----------:|:-----------------------------------:|:------------------------:|
 |:-----------:|:-----------------------------------:|:------------------------:|
 June 23 | <font color="blue"> Paper: </font> <a href="https://drive.google.com/file/d/1mhDIk8OzQ-rCgGnsQAgJ7s9WNRVgo_dr/view?usp=sharing" target="_blank">Motion Planning in Understructured Road Environments with Stacked Reservation Grids</a>   | Fangyu Wu, Dequan Wang, Minjune Hwang, Chenhui Hao, Jiawei Lu, Trevor Darrell, Alexandre Bayen  |
+June 24 | <font color="blue"> Paper: </font> Where are the Keys? - Learning Object-Centric Navigation Policies on Semantic Maps with Graph Convolutional Networks     							                          | Niko Suenderhauf   |
 |:-----------:|:-----------------------------------:|:------------------------:|
 |:-----------:|:-----------------------------------:|:------------------------:|
-June 24 | <font color="red"> Invited talk </font>                         | Cesar Cadena (ETH Zurich)|
+June 25 | <font color="red"> Invited talk </font>                         | Cesar Cadena (ETH Zurich)|
 |:-----------:|:-----------------------------------:|:------------------------:|
 |:-----------:|:-----------------------------------:|:------------------------:|
+
 
 The speaker release form can be found <a href="https://www.dropbox.com/s/qbep5bi10wo2eew/PALSpeakerReleaseForm.pdf?dl=0">here</a>.
 
