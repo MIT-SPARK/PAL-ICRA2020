@@ -10,7 +10,7 @@ div_class: lead
 | Date   |      Title      |  Speakers/Authors |   
 |:-----------:|:-----------------------------------:|:------------------------:|
 June 10 | <font color="red"> Invited talk </font>    							      | Davide Scaramuzza (UZurich) | 
-June 11 | Where are the Keys? - Learning Object-Centric Navigation Policies on Semantic Maps with Graph Convolutional Networks    							                          | Niko Suenderhauf   |
+June 11 | <font color="blue"> Paper: </font> Where are the Keys? - Learning Object-Centric Navigation Policies on Semantic Maps with Graph Convolutional Networks    							                          | Niko Suenderhauf   |
 June 12 | <font color="blue"> Paper: </font> <a href="https://drive.google.com/file/d/1lYBiVyR4rqZcZP24Dh2T6XoLGL8yGUqI/view?usp=sharing" target="_blank">Go Fetch: Mobile Manipulation in Unstructured Environments</a>    | K. Blomqvist, M. Breyer, A. Cramariuc, J. Förster, M. Grinvald, F. Tschopp, J. Chung, L. Ott, J. Nieto, R. Siegwart  |
 |:-----------:|:-----------------------------------:|:------------------------:|
 |:-----------:|:-----------------------------------:|:------------------------:|
