@@ -14,7 +14,9 @@ June 11 | <font color="red"> Invited talk </font>    							      | Davide Scara
 June 12 | <font color="blue"> Paper: </font> <a href="https://drive.google.com/file/d/1lYBiVyR4rqZcZP24Dh2T6XoLGL8yGUqI/view?usp=sharing" target="_blank">Go Fetch: Mobile Manipulation in Unstructured Environments</a>    | K. Blomqvist, M. Breyer, A. Cramariuc, J. Förster, M. Grinvald, F. Tschopp, J. Chung, L. Ott, J. Nieto, R. Siegwart  |
 |:-----------:|:-----------------------------------:|:------------------------:|
 |:-----------:|:-----------------------------------:|:------------------------:|
-June 13 | <font color="red"> Invited talk </font>                         | Marco Pavone (Stanford) |
+June 13 | <font color="red"> Tutorial: Kimera </font>                         | Toni Rosinol & Andrew Violette (MIT)|
+|:-----------:|:-----------------------------------:|:------------------------:|
+|:-----------:|:-----------------------------------:|:------------------------:|
 June 14 | <font color="blue"> Paper: </font> <a href="https://drive.google.com/file/d/1JMrgrN-gJWbf4BEQBB6MNGX5p9FjXuoo/view?usp=sharing" target="_blank">Goal-Aware Prediction: Learning to Model what Matters</a>   | Suraj Nair, Silvio Savarese, Chelsea Finn |
 June 15 | <font color="blue"> Paper: </font> <a href="https://drive.google.com/file/d/1wkvAjfCSk1kqeb4_pzI6G3EYKLqOgQ7N/view?usp=sharing" target="_blank">Locally Observable Markov Decision Processes</a>  | Max Merlin, Neev Parikh, Eric Rosen, George Konidaris |
 |:-----------:|:-----------------------------------:|:------------------------:|
@@ -29,7 +31,7 @@ June 20 | <font color="blue"> Paper: </font> <a href="https://drive.google.com/f
 June 21 | <font color="blue"> Paper: </font> <a href="https://drive.google.com/file/d/1tLe_63gofrMihAlQJRuZV2lT0BD2pFOz/view?usp=sharing" target="_blank">On the Potential of Smarter Multi-layer Maps</a>  |  Francesco Verdoja and Ville Kyrki  |
 |:-----------:|:-----------------------------------:|:------------------------:|
 |:-----------:|:-----------------------------------:|:------------------------:|
-June 22 | <font color="red"> Tutorial: Kimera </font>                         | Toni Rosinol & Andrew Violette (MIT)|
+June 22 | <font color="red"> Invited talk </font>                         | Marco Pavone (Stanford) |
 |:-----------:|:-----------------------------------:|:------------------------:|
 |:-----------:|:-----------------------------------:|:------------------------:|
 June 23 | <font color="blue"> Paper: </font> <a href="https://drive.google.com/file/d/1mhDIk8OzQ-rCgGnsQAgJ7s9WNRVgo_dr/view?usp=sharing" target="_blank">Motion Planning in Understructured Road Environments with Stacked Reservation Grids</a>   | Fangyu Wu, Dequan Wang, Minjune Hwang, Chenhui Hao, Jiawei Lu, Trevor Darrell, Alexandre Bayen  |
